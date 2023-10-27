@@ -4,9 +4,6 @@
 /node_modules
 /.ebextensions
 
-.env
-backend-v2.zip
-
 # testing
 /coverage
 
@@ -16,6 +13,10 @@ backend-v2.zip
 .env.development.local
 .env.test.local
 .env.production.local
+
+
+.env
+backend.zip
 
 npm-debug.log*
 yarn-debug.log*
