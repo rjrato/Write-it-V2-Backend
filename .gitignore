@@ -1,3 +1,6 @@
 # dependencies
 /node_modules
 /.ebextensions
+
+.env
+backend-v2.zip
